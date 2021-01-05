@@ -1,0 +1,36 @@
+ATE & 750 & 555 &  74 & 1.00 & 41.4 \\
+ATE aug & 750 & 229 &  31 & 0.56 & 30.8 \\
+pencomp & 750 &  44 &   6 & 0.20 &  2.0 \\
+pencomp1 & 750 & 23 & 3 & 0.20 & 1.2 \\
+ATM & 750 &   0 &   0 & 0.13 &  5.0 \\
+ATM aug & 750 &   3 &   0 & 0.13 &  4.6 \\
+pencomp ATM & 750 &  29 &   4 & 0.13 &  1.8 \\
+pencomp ATM1 & 750 & 47 & 6 & 0.13 & 1.2 \\
+ATO & 750 &   4 &   1 & 0.13 &  5.4 \\
+ATO aug & 750 &   6 &   1 & 0.13 &  5.4 \\
+pencomp ATO & 750 &  19 &   3 & 0.13 &  3.4 \\
+pencomp ATO1 & 750 & 37 & 5 & 0.13 & 2.6 \\
+ATT & 750 & 345 &  46 & 0.71 & 36.8 \\
+ATT aug & 750 & 114 &  15 & 0.45 & 16.0 \\
+pencomp ATT & 750 &  55 &   7 & 0.21 &  0.8 \\
+pencomp ATT1 & 750 & 23 & 3 & 0.21 & 0.6 \\
+ATC & 750 & 574 &  77 & 0.94 & 44.4 \\
+ATC aug & 750 & 244 &  32 & 0.63 & 29.0 \\
+pencomp ATC & 750 &  36 &   5 & 0.28 &  1.0 \\
+pencomp ATC1 & 750 & 22 & 3 & 0.29 & 0.8 \\
+truncate rest0.01 & 750 &  92 &  12 & 0.41 & 10.0 \\
+truncate.aug rest0.01 & 750 &  49 &   7 & 0.31 & 11.0 \\
+truncate pencomp0.01 & 750 &  20 &   3 & 0.14 &  2.8 \\
+truncate pencomp0.011 & 750 & 30 & 4 & 0.15 & 2.2 \\
+truncate rest0.05 & 750 &  22 &   3 & 0.19 &  4.8 \\
+truncate.aug rest0.05 & 750 &  16 &   2 & 0.19 &  3.6 \\
+truncate pencomp0.05 & 750 &  17 &   2 & 0.13 &  3.4 \\
+truncate pencomp0.051 & 750 & 36 & 5 & 0.13 & 2.2 \\
+truncateQ rest0 & 750 & 606 &  81 & 0.83 & 12.6 \\
+truncateQ.aug rest0 & 750 & 287 &  38 & 0.51 &  9.6 \\
+truncateQ pencomp0 & 750 &  16 &   2 & 0.14 &  3.4 \\
+truncateQ pencomp01 & 750 & 32 & 4 & 0.14 & 2.8 \\
+truncateQ rest0.005 & 750 &  91 &  12 & 0.29 &  1.2 \\
+truncateQ.aug rest0.005 & 750 &  42 &   6 & 0.24 &  1.8 \\
+truncateQ pencomp0.005 & 750 &  15 &   2 & 0.13 &  3.8 \\
+truncateQ pencomp0.0051 & 750 & 37 & 5 & 0.14 & 3.0 \\

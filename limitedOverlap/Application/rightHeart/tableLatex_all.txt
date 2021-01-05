@@ -1,0 +1,24 @@
+ATE & 5.84 & 1.69 & 6.63 \\
+ATE aug & 6.51 & 1.58 & 6.21 \\
+pencomp ATE & 6.55 & 1.46 & 5.73 \\
+ATM & 6.52 & 1.39 & 5.44 \\
+ATM aug & 6.80 & 1.39 & 5.45 \\
+pencomp ATM & 6.44 & 1.50 & 5.87 \\
+pencomp ATM w & 6.49 & 1.85 & 7.24 \\
+ATO & 6.53 & 1.36 & 5.32 \\
+ATO aug & 6.72 & 1.36 & 5.34 \\
+pencomp ATO & 6.47 & 2.16 & 8.45 \\
+ATT & 5.76 & 2.09 & 8.17 \\
+ATT aug & 7.84 & 1.79 & 7.03 \\
+pencomp ATT & 6.39 & 1.87 & 7.32 \\
+pencomp ATT w & 6.41 & 1.69 & 6.63 \\
+ATC & 5.90 & 2.11 & 8.26 \\
+ATC aug & 5.64 & 1.96 & 7.69 \\
+pencomp ATC & 6.65 & 2.03 & 7.97 \\
+pencomp ATC w & 6.64 & 1.85 & 7.25 \\
+truncate0.05 rest & 6.26 & 1.54 & 6.05 \\
+truncate0.05 aug rest & 6.31 & 1.49 & 5.84 \\
+pencomp truncate0.05 & 6.38 & 1.37 & 5.36 \\
+truncateQ0.005 rest & 6.46 & 1.53 & 6.02 \\
+truncateQ0.005 aug rest & 6.38 & 1.49 & 5.83 \\
+pencomp truncateQ0.005 & 6.44 & 1.37 & 5.39 \\
